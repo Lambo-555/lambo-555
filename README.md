@@ -33,8 +33,18 @@
 
 First Header  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+>📡 Back-end | Content Cell 
+
+
+* PHP 7 | Content Cell 
+
+    * Clear - normal lvl | Content
+    * Laravel - normal lvl | Content
+* JS |
+    * Node.js - low lvl | Content
+    * Express - low lvl | Content
+    * Socket.io - 🌱 I’m will learn it later  | Content Cell 
+Content Cell  | Content Cell 
 
 <!--
 Here are some ideas to get you started:
