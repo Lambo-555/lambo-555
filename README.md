@@ -2,6 +2,7 @@
 ### I'm Malyshev Stanislav
 🌐 Web Developer
 
+
 <h4>⚙️ My hard skills:</h4>
 
 >💻 Front-end
@@ -17,13 +18,20 @@
     * Vue JS - simple apps only
     * jQuery - normal lvl
     * Other lil libs user
-* 
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetu
+
+>📡 Back-end
+
+* PHP 7
+    * Clear - normal lvl
+    * Laravel - normal lvl
+* JS
+    * Node.js - low lvl
+    * Express - low lvl
+    * Socket.io - 🌱 I’m will learn it later
+
+
 <!--
-**Lambo-555/Lambo-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
