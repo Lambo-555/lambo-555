@@ -41,6 +41,7 @@ I am in favor of people helping to solve each other's tasks that they are not ab
     * Non SQL - low lvl
     
 <h4>🤟 My soft skills:</h4>
+
 - Striving to understand people's motives
 - Understanding that there are simple and difficult times
 - Reasonable initiative
