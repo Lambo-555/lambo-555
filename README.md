@@ -2,13 +2,22 @@
 ### I'm Malyshev Stanislav
 >🌐 Web Developer
 
-<h4>My hard skills:</h4>
+<h4>⚙️ My hard skills:</h4>
 
-* элемент 1
-* элемент 2
-    * вложенный элемент 2.1
-    * вложенный элемент 2.2
-* элемент ...
+>💻 Front-end
+
+* HTML 1.1
+* CSS
+    * SASS preprocessor
+    * SCSS preprocessor
+    * Bootstrap 4 styles
+* JS
+    * Clear Vanulla ES6 - normal lvl
+    * React JS - normal lvl
+    * Vue JS - simple apps only
+    * jQuery - normal lvl
+    * Other lil libs user
+* 
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 consectetu
