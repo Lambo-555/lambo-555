@@ -1,6 +1,6 @@
 ## Hello world!
 ### I'm Malyshev Stanislav
->🌐 Web Developer
+🌐 Web Developer
 
 <h4>⚙️ My hard skills:</h4>
 
