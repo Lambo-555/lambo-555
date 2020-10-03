@@ -2,6 +2,7 @@
 ### I'm Malyshev Stanislav
 🌐 Web Developer
 
+[image1]: //placehold.it/250x100
 
 <h4>⚙️ My hard skills:</h4>
 
