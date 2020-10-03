@@ -2,8 +2,6 @@
 ### I'm Malyshev Stanislav
 🌐 Web Developer
 
-[](https://sun9-39.userapi.com/c853428/v853428533/21184d/o84y5Gb4Cq4.jpg)
-
 <h4>⚙️ My hard skills:</h4>
 
 >💻 Front-end
@@ -30,7 +28,13 @@
     * Node.js - low lvl
     * Express - low lvl
     * Socket.io - 🌱 I’m will learn it later
+    
+>💻 My work
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 <!--
 Here are some ideas to get you started:
