@@ -18,27 +18,28 @@ I am in favor of people helping to solve each other's tasks that they are not ab
 * CSS
     * SASS preprocessor
     * SCSS preprocessor
-    * Bootstrap 4 styles
+    * Bootstrap 4
+    * Materialize
 * JS
-    * Clear Vanulla ES6 - normal lvl
-    * React JS - normal lvl
-    * Vue JS - simple apps only
-    * jQuery - normal lvl
+    * Clear Vanulla ES6
+    * React JS
+    * Vue JS
+    * jQuery
     * Other lil libs user
 
 
 >📡 Back-end
 
 * PHP 7
-    * Clear - normal lvl
-    * Laravel - normal lvl
+    * Clear
+    * Laravel
 * JS
-    * Node.js - low lvl
-    * Express - low lvl
-    * Socket.io - 🌱 I’m will learn it later
+    * Node.js
+    * Express
+    * Socket.io
 * Data-Bases
-    * SQL - normal lvl
-    * Non SQL - low lvl
+    * SQL
+    * Non SQL
     
 <h4>🤟 My soft skills:</h4>
 
