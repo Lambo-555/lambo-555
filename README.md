@@ -10,7 +10,7 @@ From time to time I take on a job in which I have to solve problems that I have 
 I am in favor of people helping to solve each other's tasks that they are not able to do alone. Therefore, I believe that teamwork and division of labor are extremely important in any area. If you need to create something convenient, working, then I will be glad to help you to the best of my ability, especially temporary;)
 <hr>
 
-<h4>⚙️ My hard skills (for 03.10.2020):</h4>
+<h4>⚙️ My hard skills (for 24.10.2021):</h4>
 
 >💻 Front-end
 
@@ -18,28 +18,29 @@ I am in favor of people helping to solve each other's tasks that they are not ab
 * CSS
     * SASS preprocessor
     * SCSS preprocessor
-    * Bootstrap 4
+    * Bootstrap 5
     * Materialize
 * JS
     * Clear Vanulla ES6
     * React JS
-    * Vue JS
+    * Vue JS (lil bit)
     * jQuery
-    * Other lil libs user
+    * Pixie
+    * Others...
 
 
 >📡 Back-end
 
-* PHP 7
-    * Clear
-    * Laravel
 * JS
     * Node.js
     * Express
     * Socket.io
+    * Nest.js
+    * Next.js
 * Data-Bases
-    * SQL
-    * Non SQL
+    * mySQL
+    * Mongo
+    * Redis
     
 <h4>🤟 My soft skills:</h4>
 
@@ -55,13 +56,12 @@ I am in favor of people helping to solve each other's tasks that they are not ab
     
 > 🔨 My work
 
-- Private lil bot's for VK
+- Bot's for VK, Telegram
 - Administative tools, panels
 - Landings for business and other types of sites
 
 > 🤔 I’m looking for help with VK API for advanced VK Mini-Apps
->
->
+> 🤔 I’m looking for help with email systems
 
 > 📫 How to reach me:
 - Email: Malishevstanislav@gmail.com
