@@ -31,16 +31,20 @@ I am in favor of people helping to solve each other's tasks that they are not ab
 
 >📡 Back-end
 
+* TypeScript
 * JS
     * Node.js
     * Express
     * Socket.io
     * Nest.js
-    * Next.js
 * Data-Bases
     * mySQL
     * Mongo
     * Redis
+    * Postgres
+* MQ
+    * RabbitMQ
+    * Kafka
     
 <h4>🤟 My soft skills:</h4>
 
@@ -61,11 +65,10 @@ I am in favor of people helping to solve each other's tasks that they are not ab
 - Landings for business and other types of sites
 
 > 🤔 I’m looking for help with VK API for advanced VK Mini-Apps
-> 🤔 I’m looking for help with email systems
 
 > 📫 How to reach me:
 - Email: Malishevstanislav@gmail.com
-- Telegram: @easystem
+- Telegram: @easystem - [@easystem](https://t.me/stanislav_a_malyshev)
 
 <!--
 DO NOT DELETE :)
